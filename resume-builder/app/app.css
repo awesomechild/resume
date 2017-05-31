@@ -23,3 +23,12 @@
   content: "|";
   padding-right: 0.3em;
 }
+
+.navBardemoBasicUsage md-content .ext-content {
+  padding: 50px;
+  margin: 20px;
+  background-color: #FFF2E0; }
+
+.tabsdemoStaticTabs{
+    padding: 10px;
+}
